@@ -1,0 +1,14 @@
+package oopWithNlayerapp.buisiness;
+
+import oopWithNlayerapp.entities.Product;
+
+public class ProductManager {
+	public void add(Product product) {
+		//iş kuralları
+		if(product.getUnitPrice()<10) {
+			throw new Exception("10 dan küçükfiyat olamaz");
+			
+		}
+	}
+
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="oop1.Product"/>
+    <fullyQualifiedTypeName name="oop1.Customer"/>
+    <fullyQualifiedTypeName name="oop1.IndividualCustomer"/>
+    <fullyQualifiedTypeName name="oop1.CorpretCustomer"/>
+    <fullyQualifiedTypeName name="CustomerManager"/>
+    <fullyQualifiedTypeName name="ProductManager"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Product"/>
+    <fullyQualifiedTypeName name="FourTransactions"/>
+    <fullyQualifiedTypeName name="Person"/>
+    <fullyQualifiedTypeName name="Customer"/>
+    <fullyQualifiedTypeName name="Employ"/>
+    <fullyQualifiedTypeName name="PersonManager"/>
+    <fullyQualifiedTypeName name="EmployManager"/>
+    <fullyQualifiedTypeName name="TeacherLoanManager"/>
+    <fullyQualifiedTypeName name="CreditUi"/>
+    <fullyQualifiedTypeName name="AgricultureLoanManager"/>
+    <fullyQualifiedTypeName name="SoldierCredit"/>
+    <fullyQualifiedTypeName name="BaseLoanManager"/>
+    <fullyQualifiedTypeName name="FileLoger"/>
+    <fullyQualifiedTypeName name="EmailLoger"/>
+    <fullyQualifiedTypeName name="DataBaseLoger"/>
+    <fullyQualifiedTypeName name="BaseLoger"/>
+    <fullyQualifiedTypeName name="Car"/>
+    <fullyQualifiedTypeName name="BigCar"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="oopWithNlayerapp.entities.Product"/>
+    <fullyQualifiedTypeName name="oopWithNlayerapp.buisiness.ProductManager"/>
+    <fullyQualifiedTypeName name="oopWithNlayerapp.dataAccess.JdbcProductDao"/>
+    <fullyQualifiedTypeName name="oopWithNlayerapp.dataAccess.ProductDao"/>
+    <fullyQualifiedTypeName name="oopWithNlayerapp.dataAccess.HibernateProductDao"/>
+    <fullyQualifiedTypeName name="oopWithNlayerapp.core.loging.Logger"/>
+</qualifiedTypeNameHistroy>

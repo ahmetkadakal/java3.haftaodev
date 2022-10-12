@@ -1,0 +1,8 @@
+
+public class FourOperation {
+
+	public int gather(int numberOne,int numberTwo) {
+		return numberOne + numberTwo;
+	}
+	
+}

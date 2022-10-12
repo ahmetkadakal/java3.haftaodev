@@ -1,0 +1,17 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		//biraz kafama göre deney yaptım 
+		Product product = new Product();
+		product.setName("Kangoo");
+		ProductManager productManager = new ProductManager();
+		productManager.add(product);
+		product.setName("Doğan");
+		product.setId(1);
+		product.setColor("Blue");
+		productManager.add2(product);
+		System.out.println(product.getCode);
+	}
+
+}

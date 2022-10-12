@@ -1,0 +1,16 @@
+package oopWithNlayerapp;
+
+import oopWithNlayerapp.buisiness.ProductManager;
+import oopWithNlayerapp.dataAccess.JdbcProductDao;
+import oopWithNlayerapp.entities.Product;
+
+public class Main {
+
+	public static void main(String[] args) throws Exception {
+		Product product1 = new Product(1,"İphone 6",11);
+		
+		ProductManager productManager = new ProductManager(new JdbcProductDao());
+		productManager.add(product1);
+	}
+
+}

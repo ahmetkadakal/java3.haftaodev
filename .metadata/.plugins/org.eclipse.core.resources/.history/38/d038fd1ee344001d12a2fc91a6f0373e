@@ -1,0 +1,12 @@
+package oopWithNlayerapp;
+
+import oopWithNlayerapp.entities.Product;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Product product1 = new Product(1,"İphone 6",1000);
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package oopWithNlayerapp.dataAccess;
+
+import oopWithNlayerapp.entities.Product;
+
+public class HibernateProductDao {
+	public class JdbcProductDao {
+		public void add(Product ptoduct) {
+			// sadece db erişim kodlarıburaya yazılır ...SQL
+			System.out.println("Hibernate ile veri tabanına eklendi");
+		}
+	}
+
+}

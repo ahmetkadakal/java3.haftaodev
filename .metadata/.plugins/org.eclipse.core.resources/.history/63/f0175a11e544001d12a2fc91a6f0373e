@@ -1,0 +1,9 @@
+package oopWithNlayerapp.dataAccess;
+
+import oopWithNlayerapp.entities.Product;
+
+public class ProductDao {
+	void add(Product product);
+		
+	
+}

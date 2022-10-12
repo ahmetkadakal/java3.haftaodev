@@ -1,0 +1,15 @@
+package oopWithNlayerapp;
+
+import oopWithNlayerapp.buisiness.ProductManager;
+import oopWithNlayerapp.entities.Product;
+
+public class Main {
+
+	public static void main(String[] args) throws Exception {
+		Product product1 = new Product(1,"İphone 6",1000);
+		
+		ProductManager productManager = new ProductManager();
+		productManager.add(product1);
+	}
+
+}

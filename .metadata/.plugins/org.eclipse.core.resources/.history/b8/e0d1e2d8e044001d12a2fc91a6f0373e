@@ -1,0 +1,8 @@
+package oopWithNlayerapp.dataAccess;
+import oopWithNlayerapp.entities.Product;
+
+public class JdbcProductDao {
+	public void add(Product ptoduct) {
+		System.out.println("JDB ile veri tabanına eklendi");
+	}
+}

@@ -1,0 +1,5 @@
+package oopWithNlayerapp.entities;
+
+public class Product {
+
+}

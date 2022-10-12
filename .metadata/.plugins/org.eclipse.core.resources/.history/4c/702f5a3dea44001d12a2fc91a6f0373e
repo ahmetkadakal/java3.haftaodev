@@ -1,0 +1,5 @@
+package oopWithNlayerapp.core.loging;
+
+public class FileLogger implements Logger {
+
+}

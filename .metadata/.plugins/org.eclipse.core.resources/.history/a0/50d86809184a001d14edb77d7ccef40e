@@ -1,0 +1,11 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		FourOperation fourOperation = new FourOperation();
+		fourOperation.gather(22, 32);
+		
+
+	}
+
+}
